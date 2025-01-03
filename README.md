@@ -50,6 +50,6 @@
 
 ### 📬 Let's Connect
 - 📧 Email: vyshnams1@gmail.com
-- 💼 [LinkedIn: Vyshnav MS](https://linkedin.com/in/vyshnav-ms)
+- 💼 [LinkedIn: Vyshnav MS](www.linkedin.com/in/vyshnav-m-s)
 
 Feel free to explore my repositories and contribute! Together, let's make the digital world better! 🌐
