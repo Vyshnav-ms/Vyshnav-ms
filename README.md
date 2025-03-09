@@ -39,6 +39,9 @@
 - 🤖 Generative AI
 - 🐚 Advanced Shell Scripting
 - 🎮 Game Development with Unity
+- 🔐 Cybersecurity & Ethical Hacking
+
+
 
 ---
 
