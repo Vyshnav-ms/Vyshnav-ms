@@ -18,11 +18,8 @@ Hey there! I’m **Vyshnav MS**, a code wizard and eternal explorer!
 ## 🚀 Featured Projects
 Here’s where the magic happens! ✨  
 - **[Lumos Learning App](https://github.com/Vyshnav-ms/Lumos-learning-app)**  
-  An interactive ed-tech gem to teach kids the alphabet with animations and voiceovers!  
-
-- **[Online Organic Platform](https://github.com/your-repo-link)**  
-  Connecting farmers and foodies for fresh, organic goodness—straight from the soil to your table!  
-
+  An interactive ed-tech gem to teach kids the alphabet with animations and voiceovers!
+  
 ---
 
 ## 🔧 My Tech Arsenal
@@ -51,7 +48,7 @@ Currently diving into:
 - 🎮 **Game Dev with Unity** – Building worlds pixel by pixel.  
 - 🔐 **Cybersecurity & Ethical Hacking** – Protecting the digital realm.  
 
-![Learning Animation](https://media.giphy.com/media/26tPghhb310QV0Lnq/giphy.gif)  
+![Learning Animation](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
 
 ---
 
